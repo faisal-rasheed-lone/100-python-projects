@@ -15,7 +15,8 @@ Each project is organized in its own directory, and this README file serves as a
 
 Below is a list of the projects included in this repository. Click on each project to access its directory and learn more:
 
-1. [To-Do List Application](.(https://github.com/faisal-rasheed-lone/100-python-projects/tree/master/To-Do-Application)) - A simple command-line to-do list application.
+1. [To-Do List Application](https://github.com/faisal-rasheed-lone/100-python-projects/tree/master/To-Do-Application) - A simple command-line to-do list application.
+2. [Contact List ](https://github.com/faisal-rasheed-lone/100-python-projects/tree/master/contact-list) - A simple command-line Contact-List application.
 
 Feel free to explore and contribute to any of these projects. You can also suggest new project ideas by opening an issue in this repository.
 
