@@ -1,4 +1,3 @@
-Certainly! Here's a sample README file for your To-Do List Application project:
 
 # To-Do List Application
 
